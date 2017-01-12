@@ -10,12 +10,12 @@
 	| 6	| REST/JAX-RS	| https://www.tutorialspoint.com/restful/restful_jax_rs.htm
 	| 7	| CA2: Yellow pages	| 
 3	| 8	| React	| https://facebook.github.io/react/
-	| 9	| 	| 
-	| 10| 	CA3: Open Data, Server to Server| 	
-4	| 11| 	System Development	| 
-	| 12| 		| 
-5	| 13| 	Semester project	| 
-	| 14| 		| 
-	| 15| 		| 
-4	| 16| 	System Development	| 
+	| 9	| React	| 
+	| 10| CA3: Open Data, Server to Server| 	
+4	| 11| System Development	| 
+	| 12| SYS					| 
+5	| 13| Semester project		| 
+	| 14| Semester Project		| 
+	| 15| Semester Project		| 
+4	| 16| System Development	| 
 
