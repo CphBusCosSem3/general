@@ -12,12 +12,12 @@
 3	| 8	| [React part1](https://github.com/CphBusCosSem3/week8-react1)	| https://facebook.github.io/react/  
 	| 9	| [React part2](https://github.com/CphBusCosSem3/week9-react2)	|  
 	| 10| CA3: Open Data, Server to Server| 	  
-4	| 11| [sys_week11](https://github.com/CphBusCosSem3/week11-System_Development) | System Development
-	| 12| [sys_week12](https://github.com/CphBusCosSem3/week12-System_Development) | System Development
+4	| 11| [sys_week 1](https://github.com/CphBusCosSem3/week11-System_Development) | System Development
+	| 12| [sys_week 2](https://github.com/CphBusCosSem3/week12-System_Development) | System Development
 5	| 13| Semester project		| 
 	| 14| Semester Project		| 
 	| 15| Semester Project		| 
-4 (igen) | 16 | [sys_week16](https://github.com/CphBusCosSem3/week16-System_Development) | System Development
+4 (igen) | 16 | [sys_week 3](https://github.com/CphBusCosSem3/week16-System_Development) | System Development
 
 ##Schedule
 N/A
