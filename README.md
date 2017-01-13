@@ -38,6 +38,17 @@ N/A
 ##Semester project
 N/A
 
+##Programs we are using
+Program | Description
+--|--
+[Netbeans](https://netbeans.org/downloads/)  | (Choose full version)
+[MySql](http://dev.mysql.com/downloads/mysql/)  | The chosen DB
+[Git](https://git-scm.com/downloads)  | For collaboration
+[Postman](https://www.getpostman.com/)  | For REST service testing
+[WebStorm](https://www.jetbrains.com/student/)  | For javascript
+[Digital Ocean](https://www.digitalocean.com/)  | Cloud Hosting
+And other suggestions to look at:
+[MeisterTask](https://www.meistertask.com/) | For SCRUM
 
 
 
