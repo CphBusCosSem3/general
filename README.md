@@ -47,7 +47,7 @@ Program | Description
 [Postman](https://www.getpostman.com/)  | For REST service testing
 [WebStorm](https://www.jetbrains.com/student/)  | For javascript
 [Digital Ocean](https://www.digitalocean.com/)  | Cloud Hosting
-And other suggestions to look at:
+And other suggestions to look at: |
 [MeisterTask](https://www.meistertask.com/) | For SCRUM
 
 
