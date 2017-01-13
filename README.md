@@ -40,7 +40,7 @@ N/A
 
 ##Programs we are using
 Program | Description  
---|--  
+---|---  
 [Netbeans](https://netbeans.org/downloads/)     | (Choose full version)  
 [MySql](http://dev.mysql.com/downloads/mysql/)  | The chosen DB  
 [Git](https://git-scm.com/downloads)            | For collaboration  
