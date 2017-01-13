@@ -1,6 +1,6 @@
 #Semester 3
 ##Topics by week
-**Module**	| **Week**	| **Topic** | **Repos**	| **Links**  
+**Module**	| **Week**	| **Topic**	| **Links**  
 ---|---|---|---|--  
 1	| 1	| [Threads and Sockets](https://github.com/CphBusCosSem3/week1-concurrency)	| http://docs.oracle.com/javase/tutorial/essential/concurrency/  
 	| 2	| [Network and virtualization](https://github.com/CphBusCosSem3/week2-network)	| https://docs.oracle.com/javase/tutorial/networking/sockets/  
