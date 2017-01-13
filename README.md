@@ -19,26 +19,29 @@
 	| 15| Semester Project		| 
 4 (igen) | 16 | [SYS week 3](https://github.com/CphBusCosSem3/week16-System_Development) | System Development
 
-##Schedule
+###Schedule
 N/A
 (Links will be available to TimeEdit and google sheet)
 
-##Studypoint system
+###Studypoint system
 N/A
 
-##News about school and class
+###News about school and class
 N/A (link will be available: maybe moodle??)
 
-##Assignments
+###Exercises
 N/A (link to assignments)
 
-##Semester seed
+###Tutorials
+[Link to tutorials](https://github.com/CphBusCosSem3/tutorials)
+
+###Semester seed
 N/A
 
-##Semester project
+###Semester project
 N/A
 
-##Programs we are using
+###Programs we are using
 Program | Description  
 ---|---  
 [Netbeans](https://netbeans.org/downloads/)     | (Choose full version)  
