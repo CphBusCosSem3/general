@@ -20,8 +20,7 @@
 4 (igen) | 16 | [SYS week 3](https://github.com/CphBusCosSem3/week16-System_Development) | System Development
 
 ###Schedule
-N/A
-(Links will be available to TimeEdit and google sheet)
+[Schedule here](https://docs.google.com/spreadsheets/d/1EsROSQK2NvymbGK748G-S5QbEVc_emVey_qpmbP2uvQ/edit?usp=sharing)
 
 ###Studypoint system
 N/A
