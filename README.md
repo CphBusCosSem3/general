@@ -54,6 +54,7 @@ Program | Description
 [Digital Ocean](https://www.digitalocean.com/)  | Cloud Hosting  
 And other suggestions to look at:               |  
 [MeisterTask](https://www.meistertask.com/)     | For SCRUM  
+[Maven](documents/Setup Maven.pdf)		| Maven
 
 
 
