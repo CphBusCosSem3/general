@@ -20,7 +20,9 @@
 4 (igen) | 16 | [SYS week 3](https://github.com/CphBusCosSem3/week16-System_Development) | System Development
 
 ###Schedule
-[Schedule here](https://docs.google.com/spreadsheets/d/1EsROSQK2NvymbGK748G-S5QbEVc_emVey_qpmbP2uvQ/edit?usp=sharing)
+
+###Group members
+[Gruppeliste](https://docs.google.com/spreadsheets/d/1OWD1dNG7-3ZIXFrwwhQbbsmxGuJTOx6KNtP2peITupk/edit?usp=sharing)
 
 ###Studypoint system
 The study point systems can be found here: [https://sp-plaul.rhcloud.com](http://sp-plaul.rhcloud.com).
