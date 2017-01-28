@@ -22,11 +22,15 @@
 4 (igen) | 16 | [SYS week 3](https://github.com/CphBusCosSem3/week16-System_Development) | System Development
 
 ###Schedule
-N/A
-(Links will be available to TimeEdit and google sheet)
+
+###Group members
+[Gruppeliste](https://docs.google.com/spreadsheets/d/1OWD1dNG7-3ZIXFrwwhQbbsmxGuJTOx6KNtP2peITupk/edit?usp=sharing)
 
 ###Studypoint system
-N/A
+The study point systems can be found here: [https://sp-plaul.rhcloud.com](http://sp-plaul.rhcloud.com).
+
+####Extra points
+Extra study points are given for active participation either in the class (for instance by presentation) or on GitHub (either via issues or pull requests). This is a motivation for you to interact with us about the course and improve it if we have made any mistakes. Please note that these points are additional to the 100% you can get by following the regular course curriculum. So it is possible to get more than 100% study points if you both participate in the course **and** improve the course material on GitHub.
 
 ###News about school and class
 N/A (link will be available: maybe moodle??)
@@ -54,6 +58,7 @@ Program | Description
 [Digital Ocean](https://www.digitalocean.com/)  | Cloud Hosting  
 And other suggestions to look at:               |  
 [MeisterTask](https://www.meistertask.com/)     | For SCRUM  
+[Maven](documents/Setup Maven.pdf)		| Maven
 
 
 
