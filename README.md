@@ -23,6 +23,9 @@
 
 ###Schedule
 
+###Slides from the Intro Day
+[Slides](documents/intro.pdf) Check here, for an overview of the full semester
+
 ###Group members
 [Gruppeliste](https://docs.google.com/spreadsheets/d/1OWD1dNG7-3ZIXFrwwhQbbsmxGuJTOx6KNtP2peITupk/edit?usp=sharing)
 
