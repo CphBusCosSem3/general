@@ -30,7 +30,7 @@
 [Gruppeliste](https://docs.google.com/spreadsheets/d/1OWD1dNG7-3ZIXFrwwhQbbsmxGuJTOx6KNtP2peITupk/edit?usp=sharing)
 
 ###Studypoint system
-The study point systems can be found here: [https://points-plaul.rhcloud.com](http://sp-plaul.rhcloud.com).
+The study point systems can be found here: [https://points-plaul.rhcloud.com/](https://points-plaul.rhcloud.com/).
 
 ####Extra points
 Extra study points are given for active participation either in the class (for instance by presentation) or on GitHub (either via issues or pull requests). This is a motivation for you to interact with us about the course and improve it if we have made any mistakes. Please note that these points are additional to the 100% you can get by following the regular course curriculum. So it is possible to get more than 100% study points if you both participate in the course **and** improve the course material on GitHub.
