@@ -27,7 +27,7 @@
 [Slides](documents/intro.pdf) Check here, for an overview of the full semester
 
 ###Group members
-[Gruppeliste](https://docs.google.com/spreadsheets/d/1OWD1dNG7-3ZIXFrwwhQbbsmxGuJTOx6KNtP2peITupk/edit?usp=sharing)
+[Gruppeliste](https://docs.google.com/document/d/1YvH6md4uZjtDpXXnGva6nX4jpM7Hm4I45nR3giyFeuU/edit?usp=sharing)
 
 ###Studypoint system
 The study point systems can be found here: [https://points-plaul.rhcloud.com/](https://points-plaul.rhcloud.com/).
