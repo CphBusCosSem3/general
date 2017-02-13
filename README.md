@@ -22,6 +22,8 @@
 
 ###Schedule
 
+Class schedule available [on Google Docs](https://docs.google.com/spreadsheets/d/1EsROSQK2NvymbGK748G-S5QbEVc_emVey_qpmbP2uvQ/edit#gid=0)
+
 ###Slides from the Intro Day
 [Slides](documents/intro.pdf) Check here, for an overview of the full semester
 
