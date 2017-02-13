@@ -6,7 +6,7 @@
 |1	| 1	| [Threads and Sockets](https://github.com/CphBusCosSem3/week1-concurrency)	| http://docs.oracle.com/javase/tutorial/essential/concurrency/ |
 |	| 2	| [Network and virtualization](https://github.com/CphBusCosSem3/week2-network)	| https://docs.oracle.com/javase/tutorial/networking/sockets/ |
 |	| 3	| CA1: Chat server	| https://www.tutorialspoint.com/design_pattern/observer_pattern.htm |
-|	| 4	| [ORM/JPA - JPQL](https://github.com/CphBusCosSem3/week4-orm-jpa)	| https://www.tutorialspoint.com/jpa/ |
+|2	| 4	| [ORM/JPA - JPQL](https://github.com/CphBusCosSem3/week4-orm-jpa)	| https://www.tutorialspoint.com/jpa/ |
 |	| 5	| [Javascript, AJAX, JSON](https://github.com/CphBusCosSem3/week5-javascript)	| https://developer.mozilla.org/en-US/docs/Web/JavaScript |
 |	| 6	| [REST/JAX-RS](https://github.com/CphBusCosSem3/week6-rest)	| https://www.tutorialspoint.com/restful/restful_jax_rs.htm |
 |	| 7	| CA2: Yellow pages	| 
