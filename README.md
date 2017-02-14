@@ -40,7 +40,7 @@ Extra study points are given for active participation either in the class (for i
 N/A (link will be available: maybe moodle??)
 
 ###Exercises
-N/A (link to assignments)
+[Exam exercises/CA's](https://github.com/CphBusCosSem3/Exercises)
 
 ###Tutorials
 [Link to tutorials](https://github.com/CphBusCosSem3/tutorials)
