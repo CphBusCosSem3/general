@@ -42,7 +42,7 @@ N/A (link will be available: maybe moodle??)
 ###Exercises
 [Exam exercises/CA's](https://github.com/CphBusCosSem3/Exercises)
 
-###Tutorials
+###Tutorials (instructions and guides)
 [Link to tutorials](https://github.com/CphBusCosSem3/tutorials)
 
 ###Semester seed
