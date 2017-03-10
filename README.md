@@ -45,7 +45,7 @@ N/A (link will be available: maybe moodle??)
 
 ###Guides (how to do "stuff" we do often)
 * [Using Apache Derby as an in-memory database](https://docs.google.com/document/d/1txCv5GpCqsIGNn-PSq5_Qgd5_GQaixNNSQy_C6AuY8Q/edit?usp=sharing)
-* [How to set up JAX-RS to handle CORS (last three pages)](http://slides3-plaul.rhcloud.com/cors/cors.html)
+* [How to set up JAX-RS to handle CORS](http://slides3-plaul.rhcloud.com/cors/cors.html#9)
 
 ###Tutorials (instructions and guides)
 [Link to tutorials](https://github.com/CphBusCosSem3/tutorials)
