@@ -9,7 +9,7 @@
 |2	| 4	| [ORM/JPA - JPQL](https://github.com/CphBusCosSem3/week4-orm-jpa)	| https://www.tutorialspoint.com/jpa/ |
 |	| 5	| [Javascript, AJAX, JSON](https://github.com/CphBusCosSem3/week5-javascript)	| https://developer.mozilla.org/en-US/docs/Web/JavaScript |
 |	| 6	| [REST/JAX-RS](https://github.com/CphBusCosSem3/week6-rest)	| https://www.tutorialspoint.com/restful/restful_jax_rs.htm |
-|	| 7	| Monday<br/> - summaryCA2 <br/>- Single Origin Policy and CORS| Read: <br/>- [Same-origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy)<br/> - [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)<br/> - [Slides](http://slides3-plaul.rhcloud.com/cors/cors.html)
+|	| 7	| Monday<br/> - summaryCA2 <br/>- Same Origin Policy and CORS <br/>- Introduction to CA-2| Read: <br/>- [Same-origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy)<br/> - [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)<br/> - [Slides](http://slides3-plaul.rhcloud.com/cors/cors.html)
 |	| 7	| MondayREST-summaryCA2: Yellow pages| 
 |3	| 8	| [React part1](https://github.com/CphBusCosSem3/week8-react1)	| https://facebook.github.io/react/  |
 |	| 9	| [React part2](https://github.com/CphBusCosSem3/week9-react2)	|  
