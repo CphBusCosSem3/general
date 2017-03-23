@@ -2,7 +2,7 @@
 ##Topics by week
 
 |**Module**	| **Week**	| **Topic**	| **Links**  |
-|---|---|---|---|---|
+|---|---|---|---|
 |1	| 1	| [Threads and Sockets](https://github.com/CphBusCosSem3/week1-concurrency)	| http://docs.oracle.com/javase/tutorial/essential/concurrency/ |
 |	| 2	| [Network and virtualization](https://github.com/CphBusCosSem3/week2-network)	| https://docs.oracle.com/javase/tutorial/networking/sockets/ |
 |	| 3	| CA1: Chat server	| https://www.tutorialspoint.com/design_pattern/observer_pattern.htm |
