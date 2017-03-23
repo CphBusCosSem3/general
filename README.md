@@ -1,5 +1,5 @@
-#Semester 3
-##Topics by week
+# Semester 3
+## Topics by week
 
 |**Module**	| **Week**	| **Topic**	| **Links**  |
 |---|---|---|---|
@@ -21,42 +21,42 @@
 |	| 15| Semester Project		| 
 |4 (igen) | 16 | [SYS week 3](https://github.com/CphBusCosSem3/week16-System_Development) | System Development
 
-###Schedule
+### Schedule
 
 Class schedule available [on Google Docs](https://docs.google.com/spreadsheets/d/1EsROSQK2NvymbGK748G-S5QbEVc_emVey_qpmbP2uvQ/edit#gid=0)
 
-###Slides from the Intro Day
+### Slides from the Intro Day
 [Slides](documents/intro.pdf) Check here, for an overview of the full semester
 
-###Group members
+### Group members
 [Gruppeliste](https://docs.google.com/document/d/1YvH6md4uZjtDpXXnGva6nX4jpM7Hm4I45nR3giyFeuU/edit?usp=sharing)
 
-###Studypoint system
+### Studypoint system
 The study point systems can be found here: [https://points-plaul.rhcloud.com/](https://points-plaul.rhcloud.com/).
 
-####Extra points
+#### Extra points
 Extra study points are given for active participation either in the class (for instance by presentation) or on GitHub (either via issues or pull requests). This is a motivation for you to interact with us about the course and improve it if we have made any mistakes. Please note that these points are additional to the 100% you can get by following the regular course curriculum. So it is possible to get more than 100% study points if you both participate in the course **and** improve the course material on GitHub.
 
-###News about school and class
+### News about school and class
 N/A (link will be available: maybe moodle??)
 
-###Exercises
+### Exercises
 [Exam exercises/CA's](https://github.com/CphBusCosSem3/Exercises)
 
-###Guides (how to do "stuff" we do often)
+### Guides (how to do "stuff" we do often)
 * [Using Apache Derby as an in-memory database](https://docs.google.com/document/d/1txCv5GpCqsIGNn-PSq5_Qgd5_GQaixNNSQy_C6AuY8Q/edit?usp=sharing)
 * [How to set up JAX-RS to handle CORS](http://slides3-plaul.rhcloud.com/cors/cors.html#9)
 
-###Tutorials (instructions and guides)
+### Tutorials (instructions and guides)
 [Link to tutorials](https://github.com/CphBusCosSem3/tutorials)
 
-###Semester seed
+### Semester seed
 N/A
 
-###Semester project
+### Semester project
 N/A
 
-###Programs we are using
+## #Programs we are using
 Program | Description  
 ---|---  
 [Netbeans](https://netbeans.org/downloads/)     | (Choose full version)  
