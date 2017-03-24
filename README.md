@@ -12,7 +12,7 @@
 |	| 7	| Monday<br/>- summary Week6<br/>- SOP and CORS <br/>- Introduction to CA-2| Read: <br/>- [Same-origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy)<br/> - [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)<br/> - [Slides](http://slides3-plaul.rhcloud.com/cors/cors.html)
 |	| 7	| Tuesday-Friday, CA2: Yellow pages| [CA-2](https://github.com/CphBusCosSem3/Exercises/blob/master/CA/CA2/CA2_ORM_REST_AJAX.pdf)
 |3	| 8	| [React part1](https://github.com/CphBusCosSem3/week8-react1)	| https://facebook.github.io/react/  |
-|	| 9	| [React part2](https://github.com/CphBusCosSem3/week9-react2)	|  
+|	| 9	| [React part2](https://github.com/CphBusCosSem3/week9-react2)	|  ["Ten" minute Introduction to MobX and React](https://mobx.js.org/getting-started.html)
 |	| 10| CA3: Open Data, Server to Server| 	  
 |4	| 11| [SYS week 1](https://github.com/CphBusCosSem3/week11-System_Development) | System Development
 |	| 12| [SYS week 2](https://github.com/CphBusCosSem3/week12-System_Development) | System Development
