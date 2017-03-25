@@ -51,7 +51,10 @@ N/A (link will be available: maybe moodle??)
 [Link to tutorials](https://github.com/CphBusCosSem3/tutorials)
 
 ### Semester seed
-N/A
+[Backend](https://github.com/Lars-m/semesterSeedJAX-RS-Backend.git) (the original version with an in-memory DB, and NO password Hashing, thats for you to fix)
+[Matching React-Frontend](https://github.com/Lars-m/semesterSeedReactClient.git)
+
+If you don't like the "ejected" front-end above (which gives you the ability to use ES-7 Decorators) you can use the same link but clone the no_decorators branch which still have the original "create react app" structure.
 
 ### Semester project
 N/A
