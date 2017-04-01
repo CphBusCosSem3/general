@@ -13,7 +13,7 @@
 |	| 7	| Tuesday-Friday, CA2: Yellow pages| [CA-2](https://github.com/CphBusCosSem3/Exercises/blob/master/CA/CA2/CA2_ORM_REST_AJAX.pdf)
 |3	| 8	| [React part1](https://github.com/CphBusCosSem3/week8-react1)	| https://facebook.github.io/react/  |
 |	| 9	| [React part2](https://github.com/CphBusCosSem3/week9-react2)	|  ["Ten" minute Introduction to MobX and React](https://mobx.js.org/getting-started.html)
-|	| 10| CA3: Open Data, Server to Server| 	  
+|	| 10| CA3: Open Data, Server to Server| Monday, Summary from week1+2, + intro to CA-3.<br/> Rest of the week CA-3	  
 |4	| 11| [SYS week 1](https://github.com/CphBusCosSem3/week11-System_Development) | System Development
 |	| 12| [SYS week 2](https://github.com/CphBusCosSem3/week12-System_Development) | System Development
 |5	| 13| Semester project		| 
